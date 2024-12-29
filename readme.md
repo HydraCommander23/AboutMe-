@@ -14,7 +14,7 @@
 - Best way to reach me is through **Discord** or **Snapchat** *(only shared upon request)*.
 
 ### 🌟 Fun Facts:
-- I visited **Morocco** and can't stop talking about it!
+- 🌍 I visited **Morocco** <img src="https://github.com/HydraCommander23/AboutMe-/raw/main/Morocco%20Flag.png" width="150"> and can't stop talking about it!
 - 🎮 I'm a passionate gamer and absolutely love playing **Alien: Isolation** (*the BEST survival horror game!!!*).
 - ⚽ I'm a huge **Premier League** fan, supporting **Manchester United**—because **Premier League is REAL FOOTBALL**!
 
