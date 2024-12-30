@@ -10,8 +10,7 @@
 3. 🧠 **Human Intelligence (HUMINT)**
 4. 📡 **Signal Intelligence (SIGINT)**
 5. 🌐 **Open Source Intelligence (OSINT)**
-
-7. 🔐 **Cybersecurity Analytics and Operations (CYAOP)**
+6. 🔐 **Cybersecurity Analytics and Operations (CYAOP)**
 
 ### 🎯 Career Goals:
 - I aspire to work in **Cybersecurity Analytics and Operations**, **Intelligence**, or similar federal roles.
@@ -23,9 +22,9 @@
 - **Algorithms**: Covered essential data structures (e.g., arrays, trees, graphs) and algorithms for efficient problem-solving.
 - **Artificial Intelligence**: Covered AI fundamentals, including search algorithms, neural networks, and decision-making techniques.
 - **Introduction to Operating Systems/Operating Systems**: **INFO WILL BE ADDED SOON**
-- **Comupter Architecture**: **INFO WILL BE ADDED SOON**
+- **Computer Architecture**: **INFO WILL BE ADDED SOON**
 - **Data Mining**: **INFO WILL BE ADDED SOON**
-- **Computer Organization****INFO WILL BE ADDED SOON**
+- **Computer Organization**: **INFO WILL BE ADDED SOON**
 
 ## Skills:
 - **Programming Languages**:
@@ -47,6 +46,7 @@
   2. Visual Studio/Code
   3. JupyterLab and Jupyter Notebook
   4. Eclipse *(My personal least favorite)*
+  5. CodeSandBox
 
   ### *(All these IDEs have been used throughout my university courses.)*
 
@@ -54,8 +54,9 @@
   1. **Database:** MySQL *(Used for a computer science project, but I know how to use it)*
   2. **Data Analysis:** Jupyter Notebook
 
+
 - ### Certifications:
-  - **WILL DO** (More certifications coming soon!)
+  - **WILL WORK ON**
 
 ### 🌟 Fun Facts:
 - <img src="https://github.com/HydraCommander23/AboutMe-/raw/main/Morocco%20Flag.png" width="150">
