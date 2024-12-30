@@ -1,6 +1,6 @@
 # Hallo/Привет (Privet) to my GitHub Page!!
 
-# About Me:
+### About Me:
 - I am a computer science nerd with a deep interest in **Cybersecurity Analytics and Operations**, **Intelligence**, and **Aviation**.
 - I’m passionate about learning new technologies and applying them in meaningful ways to solve real-world problems.
 
@@ -15,7 +15,7 @@
 ### 🎯 Career Goals:
 - I aspire to work in **Cybersecurity Analytics and Operations**, **Intelligence**, or similar federal roles.
 
-## 🎓 Relevant Classes:
+# 🎓 Relevant Classes:
 - **Data Communications and Networks**: **INFO WILL BE ADDED SOON**
 - **Machine Learning**: Learned various ML algorithms, including supervised and unsupervised learning, and applied them to real-world problems.
 - **Data Structures**: **INFO WILL BE ADDED SOON**
@@ -44,9 +44,11 @@
 - **Integrated Development Environments (IDEs)**:
   1. PyCharm
   2. Visual Studio/Code
-  3. JupyterLab and Jupyter Notebook
-  4. Eclipse *(My personal least favorite)*
-  5. CodeSandBox
+  3. CodeSandBox
+  4. JupyterLab and Jupyter Notebook
+  5. Eclipse *(My personal least favorite)*
+### Personal Favorite IDEs are: Pycharm, Visual Studio/Code, and Codesandbox
+
 
   ### *(All these IDEs have been used throughout my university courses.)*
 
@@ -58,13 +60,13 @@
 - ### Certifications:
   - **WILL WORK ON**
 
-### 🌟 Fun Facts:
+# 🌟 Fun Facts about me:
 - <img src="https://github.com/HydraCommander23/AboutMe-/raw/main/Morocco%20Flag.png" width="150">
 - 🌍 I visited **Morocco** and can't stop talking about it!
 - 🎮 I'm an avid gamer and absolutely love playing **Alien: Isolation** (*the BEST survival horror game!!!*).
 - ⚽ I'm a huge **Premier League** fan, supporting **Manchester United** ——————> **Premier League is REAL FOOTBALL**!
 
-### 📬 Contact Me:
+# 📬 Contact Me:
 - Best way to reach me is through **Discord** or **Snapchat** *(only shared upon request)*.
 
 # **Spasibo(спасибо)/Danke for visiting my Github!!!!!!!**
