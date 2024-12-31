@@ -26,6 +26,12 @@
 - **Data Mining**: **INFO WILL BE ADDED SOON**
 - **Computer Organization**: **INFO WILL BE ADDED SOON**
 
+# Projects I've done:
+-https://github.com/RoseMaster3000/FeedbackSystem
+
+### This project was done with some help
+
+
 ## Skills:
 - **Programming Languages**:
   1. Python
