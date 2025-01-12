@@ -29,7 +29,7 @@
 # Projects I've done:
 -https://github.com/RoseMaster3000/FeedbackSystem
 
-### This project was done with some help
+### This project was done with some help but the initial setup and ideas were mine. 
 
 
 ## Skills:
