@@ -2,7 +2,6 @@
 
 ### About Me:
 - I am a computer science nerd with a deep interest in **Cybersecurity Analytics and Operations**, **Intelligence**, and **Aviation**.
-- I’m passionate about learning new technologies and applying them in meaningful ways to solve real-world problems.
 
 ### Interests:
 1. **Computer Science**
