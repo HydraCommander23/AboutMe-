@@ -63,8 +63,9 @@
   2. **Data Analysis:** Jupyter Notebook
 
 
-- ### Certifications:
-  - **WILL WORK ON**
+- ### Certifications (CompTIA):
+  - Currently refreshing myself on my Information Technology (IT) fundamentals
+  - Will next work on A+ --> Security+(Sec+) --> Network+(Net+) 
 
 # 🌟 Fun Facts about me:
 - <img src="https://github.com/HydraCommander23/AboutMe-/raw/main/Morocco%20Flag.png" width="150">
