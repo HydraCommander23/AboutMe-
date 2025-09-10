@@ -70,7 +70,7 @@
 # 🌟 Fun Facts about me:
 - <img src="https://github.com/HydraCommander23/AboutMe-/raw/main/Morocco%20Flag.png" width="150">
 - 🌍 I visited **Morocco** and can't stop talking about it!
-- 🎮 I'm an avid gamer and absolutely love playing **Alien: Isolation** (*the BEST survival horror game!!!*), Call of Duty (BO2, BO3, Ghosts, MW'19), Minecraft, Battlefield 4, Rainbow Six Siege, American and Truck Simulator, Contraband Police.
+- 🎮 I'm an avid gamer and absolutely love playing **Alien: Isolation** (*the BEST survival horror game!!!*), Call of Duty (BO2, BO3, Ghosts, MW'19), Minecraft, Battlefield 4, Rainbow Six Siege, American and Euro Truck Simulator, Contraband Police.
 - ⚽ I'm a huge **Premier League** fan, supporting **Manchester United** ——————> **Premier League is REAL FOOTBALL**!
 
 # 📬 Contact Me:
