@@ -15,15 +15,15 @@
 - I aspire to work in **Cybersecurity Analytics and Operations**, **Intelligence**, or similar federal roles.
 
 # 🎓 Relevant Classes:
-- **Data Communications and Networks**: **INFO WILL BE ADDED SOON**
+- **Data Communications and Networks**
 - **Machine Learning**: Learned various ML algorithms, including supervised and unsupervised learning, and applied them to real-world problems.
-- **Data Structures**: **INFO WILL BE ADDED SOON**
+- **Data Structures**
 - **Algorithms**: Covered essential data structures (e.g., arrays, trees, graphs) and algorithms for efficient problem-solving.
 - **Artificial Intelligence**: Covered AI fundamentals, including search algorithms, neural networks, and decision-making techniques.
-- **Introduction to Operating Systems/Operating Systems**: **INFO WILL BE ADDED SOON**
-- **Computer Architecture**: **INFO WILL BE ADDED SOON**
-- **Data Mining**: **INFO WILL BE ADDED SOON**
-- **Computer Organization**: **INFO WILL BE ADDED SOON**
+- **Introduction to Operating Systems/Operating Systems**
+- **Computer Architecture**
+- **Data Mining**
+- **Computer Organization**
 
 # Projects I've done:
 -https://github.com/RoseMaster3000/FeedbackSystem
